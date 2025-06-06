@@ -18,10 +18,10 @@
   "license": "MIT",
   "homepage": "https://github.com/alicoding/react-webpack-babel#readme",
   "dependencies": {
-    "node-sass": "^4.3.0",
+    "node-sass": "^9.0.0",
     "react": "15.6.1",
     "react-dom": "15.4.2",
-    "sass-loader": "^6.0.2"
+    "sass-loader": "^16.0.5"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
@@ -36,7 +36,7 @@
     "babel-runtime": "^6.22.0",
     "css-loader": "0.26.1",
     "enzyme": "^2.9.1",
-    "eslint": "^4.3.0",
+    "eslint": "^9.28.0",
     "eslint-plugin-jest": "^20.0.3",
     "eslint-plugin-react": "^7.1.0",
     "extract-text-webpack-plugin": "^3.0.0",
@@ -52,8 +52,8 @@
     "url-loader": "0.5.7",
     "webpack": "^3.3.0",
     "webpack-cleanup-plugin": "^0.4.2",
-    "webpack-dashboard": "^0.3.0",
-    "webpack-dev-server": "^2.4.1"
+    "webpack-dashboard": "^3.3.8",
+    "webpack-dev-server": "^5.2.1"
   },
   "jest": {
     "verbose": true,
